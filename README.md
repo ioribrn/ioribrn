@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+I'm A Currently working as DevOps engineer, Interrested to contribute to open-source tools and looking to collaborate on Open source projetcs as well.
+
+
 **ioribrn/JAWAD**
 
-- 🔭 I’m currently working on devops and security research 
-- 🌱 I’m currently learning machine learning and red team 
+- 🔭 I’m currently working as DevOps Engineer
+- 🌱 I’m currently learning Cloud Security
 - 👯 I’m looking to collaborate on golang and new technologies 
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything 
 - 📫 How to reach me: https://www.linkedin.com/in/jawad-moustadif/
 - 😄 Pronouns: ...
